@@ -3,8 +3,8 @@ from selenium import webdriver
 import time
 from selenium.webdriver.common.by import By
 
-MANAGER_ID = 'ndmb2012@gmail.com'
-MANAGER_PW = 'Lna#462312'
+MANAGER_ID = 'your id'
+MANAGER_PW = 'your password'
 
 def moveToMyPage(wd):
   url = "https://lms.ictcog.or.kr/page/uat/uia/loginUsr.do"
