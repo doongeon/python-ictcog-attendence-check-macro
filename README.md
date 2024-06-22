@@ -1,1 +1,1 @@
-# ICT LMS 출설체크 머신
+# ictcog LMS 출석체크 메크로
