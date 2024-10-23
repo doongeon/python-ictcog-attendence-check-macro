@@ -1,3 +1,12 @@
+import subprocess
+import sys
+
+def install(package):
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package])
+
+install("beautifulsoup4")
+install("selenium")
+
 from bs4 import BeautifulSoup as bs
 from selenium import webdriver
 import time
