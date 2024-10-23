@@ -10,10 +10,15 @@
 ## ⚙️ 실행 방법
 
 ### 1. 설정
-- `Utils.py` 파일을 열어 ICT COG 조교 계정의 **ID**와 **비밀번호**를 입력한 후 저장합니다.
+
+리포지토리 다운
+```bash
+git clone https://github.com/doongeon/python-ictcog-attendence-check-macro.git
+```
+다운 후 `Utils.py` 파일을 열어 ICT COG 조교 계정의 **ID**와 **비밀번호**를 입력한 후 저장합니다.
 
 ### 2. 가상 환경 설정 및 실행
-터미널을 열고, 아래 명령어를 순서대로 실행하세요:
+터미널을 열고, 아래 명령어를 실행하세요:
 
 ```bash
 # 가상 환경 생성
